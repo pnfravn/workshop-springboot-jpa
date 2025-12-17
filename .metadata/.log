@@ -967,3 +967,1287 @@ java.lang.InterruptedException
 
 !ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:23:19.257
 !MESSAGE 	... 10 common frames omitted
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:38:55.251
+!MESSAGE 10:38:55.223 [pool-3-thread-7] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:39:27.418
+!MESSAGE 10:39:27.418 [Simple-Language-Server main thread] INFO  o.s.i.v.c.l.u.SimpleWorkspaceService - file created event: [file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-17 10:39:27.700
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-17 10:39:27.701
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-17 10:39:27.703
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-17 10:39:27.705
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:39:27.730
+!MESSAGE 10:39:27.508 [pool-6-thread-1] INFO  o.s.i.v.b.j.utils.SpringIndexerJava - Start scanning affected files for types [com.educandoweb.course.resources.UserResource]
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:39:27.806
+!MESSAGE 10:39:27.806 [pool-3-thread-7] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:39:27.831
+!MESSAGE 10:39:27.809 [pool-5-thread-4] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:39:27.831
+!MESSAGE 10:39:27.809 [pool-3-thread-7] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:39:27.832
+!MESSAGE 10:39:27.809 [pool-3-thread-8] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:39:27.832
+!MESSAGE 10:39:27.830 [ForkJoinPool.commonPool-worker-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Removing and cleaning up name env for project file:/C:/Users/nefer/MyNewProjects/course
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:39:27.962
+!MESSAGE 10:39:27.962 [pool-5-thread-4] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Creating name env for project 'course'
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:39:28.126
+!MESSAGE 10:39:27.996 [pool-5-thread-4] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:39:28.127
+!MESSAGE 10:39:28.001 [pool-3-thread-8] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:39:28.128
+!MESSAGE 10:39:28.100 [pool-3-thread-7] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:39:28.128
+!MESSAGE 10:39:28.101 [pool-3-thread-8] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:40:38.300
+!MESSAGE 10:39:28.307 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:40:38.429
+!MESSAGE 10:40:38.428 [pool-3-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:40:39.395
+!MESSAGE 10:40:38.802 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:40:39.397
+!MESSAGE 10:40:39.392 [pool-3-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:40:40.417
+!MESSAGE 10:40:40.414 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:40:40.417
+!MESSAGE 10:40:40.415 [pool-3-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:40:40.951
+!MESSAGE 10:40:40.950 [pool-3-thread-10] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Starting completion handling for: file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:40:42.272
+!MESSAGE 10:40:40.952 [pool-3-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:40:42.438
+!MESSAGE 10:40:42.438 [pool-3-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:40:42.445
+!MESSAGE 10:40:42.444 [pool-3-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:40:42.927
+!MESSAGE 10:40:42.786 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:40:42.927
+!MESSAGE 10:40:42.925 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 7
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:40:43.046
+!MESSAGE 10:40:43.036 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:40:43.047
+!MESSAGE 10:40:43.045 [pool-3-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:40:43.048
+!MESSAGE 10:40:43.045 [pool-3-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:40:43.468
+!MESSAGE 10:40:43.468 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:40:45.450
+!MESSAGE 10:40:45.448 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:40:45.462
+!MESSAGE 10:40:45.461 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 12
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:40:45.548
+!MESSAGE 10:40:45.524 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:40:45.549
+!MESSAGE 10:40:45.540 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:40:45.549
+!MESSAGE 10:40:45.547 [pool-3-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:40:45.967
+!MESSAGE 10:40:45.966 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:40:47.313
+!MESSAGE 10:40:47.295 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:40:47.941
+!MESSAGE 10:40:47.668 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:40:47.953
+!MESSAGE 10:40:47.951 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:40:56.701
+!MESSAGE 10:40:47.963 [pool-3-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:40:56.701
+!MESSAGE 10:40:47.963 [pool-3-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:40:56.702
+!MESSAGE 10:40:48.278 [Reconciler-1] INFO  o.s.i.v.b.j.r.JdtReconciler - reconciling (JDT): file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:40:56.702
+!MESSAGE 10:40:56.700 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 15
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:40:56.702
+!MESSAGE 10:40:56.700 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:40:56.855
+!MESSAGE 10:40:56.854 [pool-3-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:40:56.856
+!MESSAGE 10:40:56.854 [pool-3-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:40:57.566
+!MESSAGE 10:40:57.014 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 16
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:40:57.566
+!MESSAGE 10:40:57.014 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:40:58.485
+!MESSAGE 10:40:58.474 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:40:58.485
+!MESSAGE 10:40:58.484 [pool-3-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:40:58.494
+!MESSAGE 10:40:58.487 [pool-3-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:40:58.967
+!MESSAGE 10:40:58.849 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:40:58.990
+!MESSAGE 10:40:58.990 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:40:59.697
+!MESSAGE 10:40:59.003 [pool-3-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:00.048
+!MESSAGE 10:41:00.048 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:02.300
+!MESSAGE 10:41:00.202 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:02.301
+!MESSAGE 10:41:00.212 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:02.803
+!MESSAGE 10:41:02.439 [pool-3-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:02.803
+!MESSAGE 10:41:02.448 [pool-3-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:02.803
+!MESSAGE 10:41:02.802 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:05.778
+!MESSAGE 10:41:05.773 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:06.341
+!MESSAGE 10:41:06.340 [pool-3-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:06.346
+!MESSAGE 10:41:06.345 [pool-3-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:06.346
+!MESSAGE 10:41:06.345 [pool-3-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:06.346
+!MESSAGE 10:41:06.345 [pool-3-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:06.347
+!MESSAGE 10:41:06.345 [pool-3-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:06.347
+!MESSAGE 10:41:06.345 [pool-3-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:12.629
+!MESSAGE 10:41:06.696 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:13.098
+!MESSAGE 10:41:12.634 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:13.100
+!MESSAGE 10:41:13.097 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:13.101
+!MESSAGE 10:41:13.097 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:15.996
+!MESSAGE 10:41:15.950 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:16.004
+!MESSAGE 10:41:16.003 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:16.010
+!MESSAGE 10:41:16.008 [pool-3-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:16.010
+!MESSAGE 10:41:16.008 [pool-3-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:17.500
+!MESSAGE 10:41:16.452 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:17.502
+!MESSAGE 10:41:16.456 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:17.522
+!MESSAGE 10:41:17.520 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:17.531
+!MESSAGE 10:41:17.529 [pool-3-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:18.561
+!MESSAGE 10:41:18.560 [pool-3-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:18.569
+!MESSAGE 10:41:18.565 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:18.569
+!MESSAGE 10:41:18.568 [pool-3-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:18.855
+!MESSAGE 10:41:18.653 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:19.537
+!MESSAGE 10:41:19.057 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:19.538
+!MESSAGE 10:41:19.286 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:19.563
+!MESSAGE 10:41:19.562 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:19.686
+!MESSAGE 10:41:19.685 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 36
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:20.084
+!MESSAGE 10:41:20.083 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:20.583
+!MESSAGE 10:41:20.582 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:20.597
+!MESSAGE 10:41:20.596 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:20.598
+!MESSAGE 10:41:20.596 [pool-3-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:20.598
+!MESSAGE 10:41:20.596 [pool-3-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:22.175
+!MESSAGE 10:41:22.154 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:22.175
+!MESSAGE 10:41:22.165 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:22.176
+!MESSAGE 10:41:22.174 [pool-3-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:22.621
+!MESSAGE 10:41:22.620 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:22.622
+!MESSAGE 10:41:22.620 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:24.775
+!MESSAGE 10:41:24.775 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:25.304
+!MESSAGE 10:41:25.159 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:25.690
+!MESSAGE 10:41:25.689 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:26.148
+!MESSAGE 10:41:25.691 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:26.651
+!MESSAGE 10:41:26.314 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 44
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:30.316
+!MESSAGE 10:41:26.660 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:30.316
+!MESSAGE 10:41:30.315 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:30.323
+!MESSAGE 10:41:30.322 [pool-3-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:30.323
+!MESSAGE 10:41:30.322 [pool-3-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:30.323
+!MESSAGE 10:41:30.322 [pool-3-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:31.095
+!MESSAGE 10:41:31.093 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 49
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:31.096
+!MESSAGE 10:41:31.094 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:31.238
+!MESSAGE 10:41:31.233 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:31.238
+!MESSAGE 10:41:31.236 [pool-3-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:31.239
+!MESSAGE 10:41:31.236 [pool-3-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:31.240
+!MESSAGE 10:41:31.238 [pool-3-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:32.471
+!MESSAGE 10:41:32.470 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:32.618
+!MESSAGE 10:41:32.616 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:37.079
+!MESSAGE 10:41:32.974 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:37.079
+!MESSAGE 10:41:37.069 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:42.083
+!MESSAGE 10:41:37.431 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:46.150
+!MESSAGE 10:41:42.180 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:46.151
+!MESSAGE 10:41:42.180 [pool-3-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:46.152
+!MESSAGE 10:41:42.180 [pool-3-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:46.152
+!MESSAGE 10:41:42.180 [pool-3-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:46.152
+!MESSAGE 10:41:46.149 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:46.184
+!MESSAGE 10:41:46.176 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:46.185
+!MESSAGE 10:41:46.183 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:46.253
+!MESSAGE 10:41:46.188 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:46.254
+!MESSAGE 10:41:46.199 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:47.178
+!MESSAGE 10:41:46.816 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:47.179
+!MESSAGE 10:41:47.174 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:59.213
+!MESSAGE 10:41:47.181 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:59.808
+!MESSAGE 10:41:59.330 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:59.808
+!MESSAGE 10:41:59.334 [pool-3-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:59.808
+!MESSAGE 10:41:59.334 [pool-3-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:59.851
+!MESSAGE 10:41:59.850 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:59.854
+!MESSAGE 10:41:59.854 [pool-3-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:59.855
+!MESSAGE 10:41:59.854 [pool-3-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:41:59.968
+!MESSAGE 10:41:59.966 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 64
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:42:00.161
+!MESSAGE 10:42:00.161 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:42:00.373
+!MESSAGE 10:42:00.361 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:42:00.385
+!MESSAGE 10:42:00.377 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:42:00.386
+!MESSAGE 10:42:00.385 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:42:00.874
+!MESSAGE 10:42:00.873 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:42:00.875
+!MESSAGE 10:42:00.873 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:42:00.881
+!MESSAGE 10:42:00.878 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:42:00.987
+!MESSAGE 10:42:00.986 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - completion request arrived: file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:42:02.589
+!MESSAGE 10:42:00.988 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:42:02.599
+!MESSAGE 10:42:02.598 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:42:02.677
+!MESSAGE 10:42:02.676 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:42:03.735
+!MESSAGE 10:42:03.722 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:42:04.239
+!MESSAGE 10:42:04.238 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:42:04.264
+!MESSAGE 10:42:04.246 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:42:04.265
+!MESSAGE 10:42:04.263 [pool-3-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:42:04.265
+!MESSAGE 10:42:04.263 [pool-3-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:42:28.001
+!MESSAGE 10:42:06.490 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:42:28.002
+!MESSAGE 10:42:27.992 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:42:28.002
+!MESSAGE 10:42:28.000 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:42:28.795
+!MESSAGE 10:42:28.372 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:42:28.806
+!MESSAGE 10:42:28.805 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:42:29.817
+!MESSAGE 10:42:29.815 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:42:29.964
+!MESSAGE 10:42:29.954 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:42:29.965
+!MESSAGE 10:42:29.963 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:42:29.967
+!MESSAGE 10:42:29.966 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:42:29.969
+!MESSAGE 10:42:29.968 [pool-3-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:42:30.321
+!MESSAGE 10:42:30.320 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:42:30.322
+!MESSAGE 10:42:30.320 [Reconciler-1] INFO  o.s.i.v.b.j.r.JdtReconciler - reconciling (JDT): file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:42:30.323
+!MESSAGE 10:42:30.320 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:42:30.773
+!MESSAGE 10:42:30.772 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:42:30.871
+!MESSAGE 10:42:30.870 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 84
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:42:30.872
+!MESSAGE 10:42:30.870 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:42:31.780
+!MESSAGE 10:42:31.278 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:42:31.780
+!MESSAGE 10:42:31.779 [pool-3-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:42:31.781
+!MESSAGE 10:42:31.779 [pool-3-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:42:31.782
+!MESSAGE 10:42:31.779 [pool-3-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:42:32.103
+!MESSAGE 10:42:32.102 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 86
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:42:32.103
+!MESSAGE 10:42:32.102 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:42:37.260
+!MESSAGE 10:42:32.296 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:42:37.261
+!MESSAGE 10:42:33.308 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:42:37.261
+!MESSAGE 10:42:33.308 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:42:37.262
+!MESSAGE 10:42:37.260 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:42:54.254
+!MESSAGE 10:42:37.784 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:42:54.255
+!MESSAGE 10:42:37.798 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:42:54.255
+!MESSAGE 10:42:54.253 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:42:54.263
+!MESSAGE 10:42:54.263 [pool-3-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:42:56.366
+!MESSAGE 10:42:56.365 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:00.042
+!MESSAGE 10:42:56.371 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:00.454
+!MESSAGE 10:43:00.454 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:01.220
+!MESSAGE 10:43:00.703 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:01.228
+!MESSAGE 10:43:01.228 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:01.702
+!MESSAGE 10:43:01.228 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:01.704
+!MESSAGE 10:43:01.233 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:01.706
+!MESSAGE 10:43:01.233 [pool-3-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:01.706
+!MESSAGE 10:43:01.233 [pool-3-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:02.583
+!MESSAGE 10:43:01.715 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:02.590
+!MESSAGE 10:43:02.590 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:03.090
+!MESSAGE 10:43:02.592 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:03.091
+!MESSAGE 10:43:02.598 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:03.098
+!MESSAGE 10:43:03.098 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:03.556
+!MESSAGE 10:43:03.555 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:03.556
+!MESSAGE 10:43:03.555 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:04.568
+!MESSAGE 10:43:04.565 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:04.621
+!MESSAGE 10:43:04.620 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:04.634
+!MESSAGE 10:43:04.632 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:04.687
+!MESSAGE 10:43:04.687 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 105
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:04.688
+!MESSAGE 10:43:04.687 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:05.143
+!MESSAGE 10:43:05.135 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:05.752
+!MESSAGE 10:43:05.595 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:19.092
+!MESSAGE 10:43:18.327 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:19.093
+!MESSAGE 10:43:19.092 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:19.485
+!MESSAGE 10:43:19.484 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:19.486
+!MESSAGE 10:43:19.484 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:24.015
+!MESSAGE 10:43:23.893 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:24.964
+!MESSAGE 10:43:24.964 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 111
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:28.022
+!MESSAGE 10:43:25.114 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:28.023
+!MESSAGE 10:43:25.119 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:28.023
+!MESSAGE 10:43:28.021 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 114
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:28.024
+!MESSAGE 10:43:28.021 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:29.147
+!MESSAGE 10:43:28.149 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:29.147
+!MESSAGE 10:43:29.146 [pool-3-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:29.148
+!MESSAGE 10:43:29.146 [pool-3-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:29.148
+!MESSAGE 10:43:29.146 [pool-3-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:31.319
+!MESSAGE 10:43:31.240 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:31.850
+!MESSAGE 10:43:31.840 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:31.855
+!MESSAGE 10:43:31.854 [pool-3-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:32.102
+!MESSAGE 10:43:32.101 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:32.102
+!MESSAGE 10:43:32.101 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:33.739
+!MESSAGE 10:43:33.738 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:37.972
+!MESSAGE 10:43:37.971 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:38.418
+!MESSAGE 10:43:38.417 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 128
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:38.419
+!MESSAGE 10:43:38.417 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:40.693
+!MESSAGE 10:43:38.476 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:40.694
+!MESSAGE 10:43:38.484 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:40.695
+!MESSAGE 10:43:40.031 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:40.696
+!MESSAGE 10:43:40.031 [Reconciler-1] INFO  o.s.i.v.b.j.r.JdtReconciler - reconciling (JDT): file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:40.697
+!MESSAGE 10:43:40.691 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:40.703
+!MESSAGE 10:43:40.702 [pool-3-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:40.709
+!MESSAGE 10:43:40.704 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:41.783
+!MESSAGE 10:43:41.195 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:41.785
+!MESSAGE 10:43:41.196 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:41.785
+!MESSAGE 10:43:41.196 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:42.193
+!MESSAGE 10:43:42.192 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:42.791
+!MESSAGE 10:43:42.791 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:42.900
+!MESSAGE 10:43:42.900 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:42.905
+!MESSAGE 10:43:42.904 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:42.968
+!MESSAGE 10:43:42.967 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:45.993
+!MESSAGE 10:43:45.501 [pool-3-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:49.315
+!MESSAGE 10:43:48.803 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:50.343
+!MESSAGE 10:43:50.342 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 148
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:50.344
+!MESSAGE 10:43:50.342 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:50.498
+!MESSAGE 10:43:50.497 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 149
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:50.499
+!MESSAGE 10:43:50.497 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:50.505
+!MESSAGE 10:43:50.504 [pool-3-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:51.021
+!MESSAGE 10:43:51.020 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:51.022
+!MESSAGE 10:43:51.020 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:52.229
+!MESSAGE 10:43:52.229 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:52.230
+!MESSAGE 10:43:52.229 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:57.071
+!MESSAGE 10:43:54.608 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:57.072
+!MESSAGE 10:43:55.056 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 153
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:57.074
+!MESSAGE 10:43:55.559 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:57.841
+!MESSAGE 10:43:57.840 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:43:57.850
+!MESSAGE 10:43:57.849 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:03.346
+!MESSAGE 10:44:03.345 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:06.358
+!MESSAGE 10:44:06.118 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:06.774
+!MESSAGE 10:44:06.774 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 162
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:06.776
+!MESSAGE 10:44:06.774 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:11.357
+!MESSAGE 10:44:07.132 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:11.358
+!MESSAGE 10:44:07.152 [pool-3-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:13.719
+!MESSAGE 10:44:13.709 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:14.846
+!MESSAGE 10:44:14.846 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:14.847
+!MESSAGE 10:44:14.846 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:18.740
+!MESSAGE 10:44:18.739 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:18.783
+!MESSAGE 10:44:18.782 [pool-3-thread-11] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:18.784
+!MESSAGE 10:44:18.782 [pool-3-thread-11] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Starting completion handling for: file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:18.784
+!MESSAGE 10:44:18.782 [pool-3-thread-11] INFO  o.s.i.v.c.l.c.CompositeCompletionEngine - languageId = LanguageId [java]
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:19.364
+!MESSAGE 10:44:18.794 [pool-3-thread-11] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Got 1 completions in 12ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:19.406
+!MESSAGE 10:44:19.406 [pool-3-thread-11] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Starting completion handling for: file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:21.997
+!MESSAGE 10:44:21.997 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: courseApplication
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:22.091
+!MESSAGE 10:44:22.090 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:22.949
+!MESSAGE 10:44:22.948 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:23.129
+!MESSAGE 10:44:23.128 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:23.136
+!MESSAGE 10:44:23.136 [pool-3-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:23.137
+!MESSAGE 10:44:23.136 [pool-3-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:23.228
+!MESSAGE 10:44:23.228 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - completion request arrived: file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:29.340
+!MESSAGE 10:44:23.666 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:29.342
+!MESSAGE 10:44:29.340 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:29.850
+!MESSAGE 10:44:29.848 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:29.959
+!MESSAGE 10:44:29.857 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:30.876
+!MESSAGE 10:44:30.363 [pool-3-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:30.876
+!MESSAGE 10:44:30.438 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:30.877
+!MESSAGE 10:44:30.875 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:30.877
+!MESSAGE 10:44:30.875 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:33.144
+!MESSAGE 10:44:33.144 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:33.145
+!MESSAGE 10:44:33.144 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:34.978
+!MESSAGE 10:44:33.145 [pool-3-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:34.978
+!MESSAGE 10:44:34.977 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - completion request arrived: file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:34.979
+!MESSAGE 10:44:34.977 [pool-3-thread-11] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:34.979
+!MESSAGE 10:44:34.977 [pool-3-thread-11] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Starting completion handling for: file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:34.980
+!MESSAGE 10:44:34.977 [pool-3-thread-11] INFO  o.s.i.v.c.l.c.CompositeCompletionEngine - languageId = LanguageId [java]
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:36.116
+!MESSAGE 10:44:36.116 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:36.124
+!MESSAGE 10:44:36.124 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:36.189
+!MESSAGE 10:44:36.188 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 185
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:36.190
+!MESSAGE 10:44:36.188 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:36.626
+!MESSAGE 10:44:36.625 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:37.325
+!MESSAGE 10:44:36.631 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:37.576
+!MESSAGE 10:44:37.332 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:37.578
+!MESSAGE 10:44:37.574 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:37.857
+!MESSAGE 10:44:37.856 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:37.858
+!MESSAGE 10:44:37.856 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:37.858
+!MESSAGE 10:44:37.856 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:37.870
+!MESSAGE 10:44:37.869 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:38.007
+!MESSAGE 10:44:38.006 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:38.149
+!MESSAGE 10:44:38.148 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:38.362
+!MESSAGE 10:44:38.362 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:38.363
+!MESSAGE 10:44:38.362 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:38.848
+!MESSAGE 10:44:38.513 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:38.870
+!MESSAGE 10:44:38.869 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:39.599
+!MESSAGE 10:44:38.890 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:39.600
+!MESSAGE 10:44:39.599 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:39.600
+!MESSAGE 10:44:39.599 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:40.819
+!MESSAGE 10:44:39.875 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:40.860
+!MESSAGE 10:44:40.859 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:40.869
+!MESSAGE 10:44:40.864 [pool-3-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:41.358
+!MESSAGE 10:44:41.357 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:44.631
+!MESSAGE 10:44:42.286 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:44.632
+!MESSAGE 10:44:42.322 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:44.632
+!MESSAGE 10:44:42.326 [pool-3-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:45.152
+!MESSAGE 10:44:45.151 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:45.175
+!MESSAGE 10:44:45.153 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:45.177
+!MESSAGE 10:44:45.173 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:45.178
+!MESSAGE 10:44:45.173 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:46.159
+!MESSAGE 10:44:46.078 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 200
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:46.160
+!MESSAGE 10:44:46.078 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:46.160
+!MESSAGE 10:44:46.158 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:46.161
+!MESSAGE 10:44:46.158 [pool-3-thread-11] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Got 0 completions in 12ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:46.267
+!MESSAGE 10:44:46.266 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:46.978
+!MESSAGE 10:44:46.964 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:46.987
+!MESSAGE 10:44:46.986 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:47.469
+!MESSAGE 10:44:46.997 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:47.478
+!MESSAGE 10:44:47.476 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:48.097
+!MESSAGE 10:44:47.592 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 2ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:48.116
+!MESSAGE 10:44:48.114 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:49.095
+!MESSAGE 10:44:48.119 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:49.622
+!MESSAGE 10:44:49.600 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:49.630
+!MESSAGE 10:44:49.627 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:50.238
+!MESSAGE 10:44:49.641 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:50.691
+!MESSAGE 10:44:50.690 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:50.691
+!MESSAGE 10:44:50.690 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:53.779
+!MESSAGE 10:44:50.693 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:53.779
+!MESSAGE 10:44:53.778 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:53.780
+!MESSAGE 10:44:53.778 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:56.836
+!MESSAGE 10:44:56.834 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:57.338
+!MESSAGE 10:44:57.337 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:57.339
+!MESSAGE 10:44:57.337 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:58.415
+!MESSAGE 10:44:58.414 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:58.415
+!MESSAGE 10:44:58.414 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:58.724
+!MESSAGE 10:44:58.724 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:58.725
+!MESSAGE 10:44:58.724 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:59.779
+!MESSAGE 10:44:59.613 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:44:59.780
+!MESSAGE 10:44:59.776 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:45:00.630
+!MESSAGE 10:45:00.597 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:45:00.630
+!MESSAGE 10:45:00.629 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - completion request arrived: file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:45:01.973
+!MESSAGE 10:45:01.853 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:45:01.983
+!MESSAGE 10:45:01.982 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:45:02.477
+!MESSAGE 10:45:01.987 [pool-3-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:45:02.478
+!MESSAGE 10:45:02.389 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 212
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:45:03.119
+!MESSAGE 10:45:03.112 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:45:03.628
+!MESSAGE 10:45:03.160 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:45:03.629
+!MESSAGE 10:45:03.627 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-17 10:45:36.658
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-17 10:45:36.659
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-17 10:45:36.660
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-17 10:45:36.660
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:45:36.695
+!MESSAGE 10:45:36.539 [Simple-Language-Server main thread] INFO  o.s.i.v.boot.app.SpringSymbolIndex - Update document [file changed]: file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:45:36.709
+!MESSAGE 10:45:36.708 [pool-6-thread-1] INFO  o.s.i.v.b.j.utils.SpringIndexerJava - Start scanning affected files for types [com.educandoweb.course.resources.UserResource]
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:45:37.217
+!MESSAGE 10:45:36.954 [pool-14-thread-1] ERROR o.e.lsp4j.jsonrpc.RemoteEndpoint - Internal error: java.lang.IllegalStateException: Live Data is not yet available!
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:45:37.218
+!MESSAGE java.util.concurrent.CompletionException: java.lang.IllegalStateException: Live Data is not yet available!
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:45:37.220
+!MESSAGE 	at java.base/java.util.concurrent.CompletableFuture.wrapInCompletionException(CompletableFuture.java:323)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:45:37.221
+!MESSAGE 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:376)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:45:37.222
+!MESSAGE 	at java.base/java.util.concurrent.CompletableFuture.uniAcceptNow(CompletableFuture.java:768)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:45:37.223
+!MESSAGE 	at java.base/java.util.concurrent.CompletableFuture.uniAcceptStage(CompletableFuture.java:756)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:45:37.223
+!MESSAGE 	at java.base/java.util.concurrent.CompletableFuture.thenAccept(CompletableFuture.java:2241)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:45:37.224
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:279)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:45:37.224
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:45:37.225
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.ParentProcessWatcher.lambda$apply$0(ParentProcessWatcher.java:129)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:45:37.225
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:45:37.226
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:45:37.227
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:45:37.227
+!MESSAGE 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:45:37.228
+!MESSAGE 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:45:37.229
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:45:37.229
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:45:37.231
+!MESSAGE 	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:45:37.233
+!MESSAGE Caused by: java.lang.IllegalStateException: Live Data is not yet available!
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:45:37.235
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.livehover.v2.SpringProcessCommandHandler.handleLiveProcessRequest(SpringProcessCommandHandler.java:330)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:45:37.236
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.livehover.v2.SpringProcessCommandHandler.lambda$new$4(SpringProcessCommandHandler.java:81)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:45:37.237
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.SimpleLanguageServer.executeCommand(SimpleLanguageServer.java:313)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:45:37.238
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.SimpleWorkspaceService.executeCommand(SimpleWorkspaceService.java:157)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:45:37.240
+!MESSAGE 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:45:37.241
+!MESSAGE 	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:45:37.242
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:45:37.244
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:45:37.245
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:45:37.246
+!MESSAGE 	... 10 common frames omitted
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:45:37.302
+!MESSAGE 10:45:37.278 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:45:37.303
+!MESSAGE 10:45:37.281 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:46:06.086
+!MESSAGE ProcessWatcher.java:129)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:46:06.088
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:46:06.090
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:46:06.091
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:46:06.092
+!MESSAGE 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:46:06.093
+!MESSAGE 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:46:06.095
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:46:06.095
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:46:06.096
+!MESSAGE 	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:46:06.096
+!MESSAGE Caused by: java.lang.IllegalStateException: Live Data is not yet available!
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:46:06.097
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.livehover.v2.SpringProcessCommandHandler.handleLiveProcessRequest(SpringProcessCommandHandler.java:330)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:46:06.097
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.livehover.v2.SpringProcessCommandHandler.lambda$new$4(SpringProcessCommandHandler.java:81)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:46:06.098
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.SimpleLanguageServer.executeCommand(SimpleLanguageServer.java:313)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:46:06.098
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.SimpleWorkspaceService.executeCommand(SimpleWorkspaceService.java:157)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:46:06.099
+!MESSAGE 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:46:06.099
+!MESSAGE 	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:46:06.100
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:46:06.100
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:46:06.100
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:46:06.101
+!MESSAGE 	... 10 common frames omitted
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-17 10:46:06.101
+!MESSAGE 10:46:06.084 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/course/src/main/java/com/educandoweb/course/resources/UserResource.java
