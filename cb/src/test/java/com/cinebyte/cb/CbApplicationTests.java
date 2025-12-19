@@ -1,10 +1,10 @@
-package com.devsuperior.userdept;
+package com.cinebyte.cb;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class UserdeptApplicationTests {
+class CbApplicationTests {
 
 	@Test
 	void contextLoads() {

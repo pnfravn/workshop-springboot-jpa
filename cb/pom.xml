@@ -8,11 +8,11 @@
 		<version>4.0.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.educandoweb</groupId>
-	<artifactId>course</artifactId>
+	<groupId>com.cinebyte</groupId>
+	<artifactId>cb</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>course</name>
-	<description>Demo project for Spring Boot</description>
+	<name>cb</name>
+	<description>pixel que contam historia</description>
 	<url/>
 	<licenses>
 		<license/>
