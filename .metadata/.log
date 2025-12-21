@@ -5606,3 +5606,2230 @@ java.io.IOException: Process timed-out and it was attempted to forcefully termin
 
 !ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:20:12.822
 !MESSAGE 11:20:12.121 [pool-5-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/Clock/src/model/PlayerTimer.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:46:42.371
+!MESSAGE 11:46:41.341 [pool-3-thread-8] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/Clock/src/model/PlayerTimer.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:47:27.211
+!MESSAGE 11:47:27.188 [pool-6-thread-1] INFO  o.s.i.v.b.i.c.IndexCacheOnDiscDeltaBased - compacting...
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:47:27.278
+!MESSAGE 11:47:27.277 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 1
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:47:27.289
+!MESSAGE 11:47:27.287 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Creating name env for project 'cb'
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:47:27.385
+!MESSAGE 11:47:27.383 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:47:27.386
+!MESSAGE 11:47:27.386 [pool-3-thread-8] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:47:27.789
+!MESSAGE 11:47:27.786 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:47:27.796
+!MESSAGE 11:47:27.795 [pool-3-thread-8] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-21 11:47:28.114
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-21 11:47:28.115
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-21 11:47:28.115
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-21 11:47:28.116
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:47:28.161
+!MESSAGE 11:47:28.159 [Simple-Language-Server main thread] INFO  o.s.i.v.c.l.u.SimpleWorkspaceService - file changed event: [file:///C:/Users/nefer/MyNewProjects/cb/target/classes/META-INF/maven/com.cinebyte/cb/pom.properties, file:///C:/Users/nefer/MyNewProjects/cb/target/classes/META-INF/maven/com.cinebyte/cb/pom.xml, file:///C:/Users/nefer/MyNewProjects/cb/target/classes/application-test.properties, file:///C:/Users/nefer/MyNewProjects/cb/target/classes/application.properties]
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:47:28.206
+!MESSAGE 11:47:28.165 [Simple-Language-Server main thread] INFO  o.s.i.v.boot.app.SpringSymbolIndex - Update document [file changed]: file:///C:/Users/nefer/MyNewProjects/cb/target/classes/application-test.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:47:28.676
+!MESSAGE 11:47:28.675 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:47:28.762
+!MESSAGE 11:47:28.761 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:47:28.763
+!MESSAGE 11:47:28.761 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:47:30.262
+!MESSAGE 11:47:30.261 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:47:30.262
+!MESSAGE 11:47:30.261 [pool-3-thread-8] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:47:30.800
+!MESSAGE 11:47:30.799 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 3
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:47:30.912
+!MESSAGE 11:47:30.910 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 4
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:47:31.008
+!MESSAGE 11:47:31.007 [pool-3-thread-8] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:47:31.008
+!MESSAGE 11:47:31.007 [pool-3-thread-8] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:47:31.009
+!MESSAGE 11:47:31.007 [pool-3-thread-8] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:47:31.067
+!MESSAGE 11:47:31.066 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:47:31.399
+!MESSAGE 11:47:31.243 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:47:31.727
+!MESSAGE 11:47:31.725 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:47:31.978
+!MESSAGE 11:47:31.976 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:47:33.190
+!MESSAGE 11:47:31.993 [pool-3-thread-8] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:47:33.957
+!MESSAGE 11:47:33.803 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 13
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:47:34.184
+!MESSAGE 11:47:34.182 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:47:34.479
+!MESSAGE 11:47:34.192 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:47:34.598
+!MESSAGE 11:47:34.597 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 17
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:47:34.734
+!MESSAGE 11:47:34.712 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:47:34.735
+!MESSAGE 11:47:34.733 [pool-3-thread-8] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:47:34.735
+!MESSAGE 11:47:34.733 [pool-3-thread-8] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:47:36.063
+!MESSAGE 11:47:35.103 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:47:36.064
+!MESSAGE 11:47:36.062 [pool-3-thread-8] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:47:37.706
+!MESSAGE 11:47:37.703 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:47:37.736
+!MESSAGE 11:47:37.730 [pool-3-thread-8] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:47:38.216
+!MESSAGE 11:47:38.204 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:47:38.218
+!MESSAGE 11:47:38.214 [pool-3-thread-8] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:47:39.230
+!MESSAGE 11:47:38.711 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:47:39.231
+!MESSAGE 11:47:39.228 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:47:39.456
+!MESSAGE 11:47:39.454 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:47:41.361
+!MESSAGE 11:47:40.667 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:47:41.363
+!MESSAGE 11:47:41.360 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:47:41.694
+!MESSAGE 11:47:41.684 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 34
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:47:41.695
+!MESSAGE 11:47:41.685 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:47:42.199
+!MESSAGE 11:47:41.699 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:47:42.700
+!MESSAGE 11:47:42.699 [pool-3-thread-8] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:47:52.513
+!MESSAGE 11:47:43.605 [pool-3-thread-8] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:48:04.216
+!MESSAGE 11:47:52.514 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:48:04.391
+!MESSAGE 11:48:04.390 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:48:04.890
+!MESSAGE 11:48:04.412 [pool-3-thread-8] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:48:04.890
+!MESSAGE 11:48:04.889 [pool-3-thread-8] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:48:05.230
+!MESSAGE 11:48:05.230 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:48:05.232
+!MESSAGE 11:48:05.230 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:48:05.450
+!MESSAGE 11:48:05.449 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:48:05.952
+!MESSAGE 11:48:05.630 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 45
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:48:05.959
+!MESSAGE 11:48:05.958 [pool-3-thread-8] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:48:06.738
+!MESSAGE 11:48:06.010 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 46
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:48:06.740
+!MESSAGE 11:48:06.467 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:48:06.742
+!MESSAGE 11:48:06.467 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:48:06.976
+!MESSAGE 11:48:06.974 [pool-3-thread-8] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:48:07.406
+!MESSAGE 11:48:07.404 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 52
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:48:07.408
+!MESSAGE 11:48:07.405 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:48:08.554
+!MESSAGE 11:48:07.520 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:48:08.555
+!MESSAGE 11:48:07.910 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:48:08.604
+!MESSAGE 11:48:08.598 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:48:11.182
+!MESSAGE 11:48:11.166 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:48:11.184
+!MESSAGE 11:48:11.180 [pool-3-thread-8] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:48:11.253
+!MESSAGE 11:48:11.252 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:48:11.673
+!MESSAGE 11:48:11.670 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:48:17.533
+!MESSAGE 11:48:17.531 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 60
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:48:17.694
+!MESSAGE 11:48:17.689 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:48:17.696
+!MESSAGE 11:48:17.689 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:48:17.697
+!MESSAGE 11:48:17.693 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:48:17.697
+!MESSAGE 11:48:17.693 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:48:20.884
+!MESSAGE 11:48:18.694 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:48:20.885
+!MESSAGE 11:48:18.694 [pool-3-thread-8] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:48:20.900
+!MESSAGE 11:48:20.899 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:48:20.907
+!MESSAGE 11:48:20.906 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:48:20.914
+!MESSAGE 11:48:20.913 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:48:22.202
+!MESSAGE 11:48:21.398 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:48:22.203
+!MESSAGE 11:48:22.200 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 70
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:48:22.204
+!MESSAGE 11:48:22.200 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:48:22.926
+!MESSAGE 11:48:22.925 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:48:23.855
+!MESSAGE 11:48:23.854 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:48:24.494
+!MESSAGE 11:48:24.493 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:48:24.978
+!MESSAGE 11:48:24.826 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:48:25.480
+!MESSAGE 11:48:25.479 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:48:25.480
+!MESSAGE 11:48:25.479 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:48:26.095
+!MESSAGE 11:48:26.094 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:48:42.069
+!MESSAGE 11:48:41.068 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:48:42.262
+!MESSAGE 11:48:42.260 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:48:42.576
+!MESSAGE 11:48:42.576 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:48:42.589
+!MESSAGE 11:48:42.586 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:49:47.632
+!MESSAGE 11:49:19.603 [pool-3-thread-8] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:49:47.632
+!MESSAGE 11:49:47.117 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/Clock/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:49:47.633
+!MESSAGE 11:49:47.630 [Reconciler-1] INFO  o.s.i.v.b.j.r.JdtReconciler - reconciling (JDT): file:///C:/Users/nefer/MyNewProjects/Clock/src/application/Program.java done in 8ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:49:47.633
+!MESSAGE 11:49:47.630 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/Clock/src/application/Program.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:49:55.545
+!MESSAGE 11:49:51.855 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:49:55.548
+!MESSAGE 11:49:51.855 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:49:55.548
+!MESSAGE 11:49:55.538 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:49:55.561
+!MESSAGE 11:49:55.560 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:49:55.688
+!MESSAGE 11:49:55.580 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:49:55.699
+!MESSAGE 11:49:55.695 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:49:55.810
+!MESSAGE 11:49:55.809 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:00.355
+!MESSAGE 11:50:00.355 [pool-3-thread-12] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:00.717
+!MESSAGE 11:50:00.716 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:02.502
+!MESSAGE 11:50:02.501 [pool-3-thread-12] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:02.716
+!MESSAGE 11:50:02.513 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:02.743
+!MESSAGE 11:50:02.741 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:03.025
+!MESSAGE 11:50:03.023 [pool-3-thread-12] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:03.557
+!MESSAGE 11:50:03.299 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 9
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:03.567
+!MESSAGE 11:50:03.564 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:03.917
+!MESSAGE 11:50:03.590 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:03.918
+!MESSAGE 11:50:03.916 [pool-3-thread-12] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:04.060
+!MESSAGE 11:50:04.059 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:04.061
+!MESSAGE 11:50:04.059 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:05.182
+!MESSAGE 11:50:05.179 [pool-3-thread-12] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:06.529
+!MESSAGE 11:50:06.528 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:06.530
+!MESSAGE 11:50:06.528 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:07.018
+!MESSAGE 11:50:07.017 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:07.044
+!MESSAGE 11:50:07.044 [pool-3-thread-12] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:07.823
+!MESSAGE 11:50:07.821 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 15
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:08.435
+!MESSAGE 11:50:07.899 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:08.435
+!MESSAGE 11:50:07.916 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:08.939
+!MESSAGE 11:50:08.932 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:09.968
+!MESSAGE 11:50:09.447 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:09.984
+!MESSAGE p(LocalCache.java:3467)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:09.985
+!MESSAGE 	at com.google.common.cache.LocalCache$Segment.postWriteCleanup(LocalCache.java:3443)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:09.985
+!MESSAGE 	at com.google.common.cache.LocalCache$Segment.remove(LocalCache.java:3077)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:09.986
+!MESSAGE 	at com.google.common.cache.LocalCache.remove(LocalCache.java:4251)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:09.986
+!MESSAGE 	at com.google.common.cache.LocalCache$LocalManualCache.invalidate(LocalCache.java:4891)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:09.987
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.utils.CompilationUnitCache.invalidateCuForJavaFile(CompilationUnitCache.java:383)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:09.987
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.utils.CompilationUnitCache.lambda$new$0(CompilationUnitCache.java:130)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:09.988
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.ListenerList.fire(ListenerList.java:29)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:09.989
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.SimpleTextDocumentService.didChange(SimpleTextDocumentService.java:210)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:09.989
+!MESSAGE 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:09.990
+!MESSAGE 	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:09.990
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:09.991
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:09.991
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:09.992
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:09.992
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.ParentProcessWatcher.lambda$apply$0(ParentProcessWatcher.java:129)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:09.993
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:09.993
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:09.993
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:09.994
+!MESSAGE 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:09.994
+!MESSAGE 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:09.994
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:09.994
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:09.994
+!MESSAGE 	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:09.995
+!MESSAGE Caused by: java.util.concurrent.CancellationException: null
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:09.995
+!MESSAGE 	at java.base/java.util.concurrent.CompletableFuture.cancel(CompletableFuture.java:2552)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:09.995
+!MESSAGE 	... 26 common frames omitted
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:10.164
+!MESSAGE 11:50:10.163 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 21
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:12.187
+!MESSAGE 11:50:10.529 [pool-3-thread-12] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:13.212
+!MESSAGE 11:50:12.720 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:18.067
+!MESSAGE 11:50:18.066 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:18.068
+!MESSAGE 11:50:18.066 [pool-3-thread-12] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:19.869
+!MESSAGE 11:50:19.867 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 28
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:19.870
+!MESSAGE 11:50:19.868 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:20.032
+!MESSAGE 11:50:20.030 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:20.213
+!MESSAGE 11:50:20.212 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 30
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:21.199
+!MESSAGE 11:50:21.104 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:21.557
+!MESSAGE 11:50:21.548 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:22.039
+!MESSAGE 11:50:22.037 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:22.040
+!MESSAGE 11:50:22.037 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:26.393
+!MESSAGE 11:50:26.391 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:26.933
+!MESSAGE 11:50:26.907 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:26.933
+!MESSAGE 11:50:26.932 [pool-3-thread-12] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:26.934
+!MESSAGE 11:50:26.932 [pool-3-thread-12] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:49.169
+!MESSAGE 11:50:49.044 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 37
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:49.170
+!MESSAGE 11:50:49.168 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:49.184
+!MESSAGE 11:50:49.183 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:49.201
+!MESSAGE 11:50:49.194 [pool-3-thread-12] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:49.630
+!MESSAGE 11:50:49.629 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:50.355
+!MESSAGE 11:50:50.354 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:50.369
+!MESSAGE 11:50:50.368 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:50.377
+!MESSAGE 11:50:50.376 [pool-3-thread-12] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:50.382
+!MESSAGE 11:50:50.379 [pool-3-thread-13] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:50.861
+!MESSAGE 11:50:50.490 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:50.907
+!MESSAGE 11:50:50.871 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:50.907
+!MESSAGE 11:50:50.883 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:51.237
+!MESSAGE 11:50:51.205 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:51.238
+!MESSAGE 11:50:51.236 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 44
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:51.400
+!MESSAGE 11:50:51.399 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:51.421
+!MESSAGE 11:50:51.413 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:53.312
+!MESSAGE 11:50:53.266 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:53.313
+!MESSAGE 11:50:53.310 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:53.779
+!MESSAGE 11:50:53.546 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:53.780
+!MESSAGE 11:50:53.779 [pool-3-thread-12] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:53.786
+!MESSAGE 11:50:53.785 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:58.216
+!MESSAGE 11:50:58.168 [pool-3-thread-12] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:58.217
+!MESSAGE 11:50:58.168 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:58.663
+!MESSAGE 11:50:58.469 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:58.719
+!MESSAGE 11:50:58.689 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:58.720
+!MESSAGE 11:50:58.717 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:58.782
+!MESSAGE 11:50:58.741 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:58.920
+!MESSAGE 11:50:58.920 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:59.214
+!MESSAGE 11:50:59.214 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:59.249
+!MESSAGE 11:50:59.247 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:59.280
+!MESSAGE 11:50:59.259 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:59.282
+!MESSAGE 11:50:59.264 [pool-3-thread-12] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:59.731
+!MESSAGE 11:50:59.728 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:50:59.859
+!MESSAGE 11:50:59.857 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:51:01.103
+!MESSAGE 11:51:00.234 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:51:01.107
+!MESSAGE 11:51:00.236 [Reconciler-1] INFO  o.s.i.v.b.j.r.JdtReconciler - reconciling (JDT): file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java done in 2ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:51:01.109
+!MESSAGE 11:51:01.102 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 54
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:51:01.247
+!MESSAGE 11:51:01.227 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:51:01.303
+!MESSAGE 11:51:01.301 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:51:10.505
+!MESSAGE 11:51:01.611 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:51:10.546
+!MESSAGE 11:51:10.532 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:51:12.466
+!MESSAGE 11:51:10.733 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:51:12.468
+!MESSAGE 11:51:12.463 [pool-3-thread-11] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Starting completion handling for: file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:51:12.478
+!MESSAGE 11:51:12.474 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:51:15.193
+!MESSAGE 11:51:15.076 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:51:17.583
+!MESSAGE InterruptedException
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:430)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2117)
+	at org.eclipse.lsp4e.jdt.LSJavaCompletionProposalComputer.asJavaProposals(LSJavaCompletionProposalComputer.java:82)
+	at org.eclipse.lsp4e.jdt.LSJavaCompletionProposalComputer.computeCompletionProposals(LSJavaCompletionProposalComputer.java:54)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalComputerDescriptor.computeCompletionProposals(CompletionProposalComputerDescriptor.java:353)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalCategory.computeCompletionProposals(CompletionProposalCategory.java:340)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.collectProposals(ContentAssistProcessor.java:332)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.computeCompletionProposals(ContentAssistProcessor.java:288)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$10(AsyncCompletionProposalPopup.java:385)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$9(AsyncCompletionProposalPopup.java:384)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$11(AsyncCompletionProposalPopup.java:419)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:51:17.590
+!MESSAGE 11:51:17.585 [pool-3-thread-11] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:51:17.592
+!MESSAGE 11:51:17.588 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:51:25.078
+!MESSAGE 11:51:24.673 [Simple-Language-Server main thread] INFO  o.s.i.v.c.l.u.SimpleWorkspaceService - file changed event: [file:///C:/Users/nefer/MyNewProjects/Clock/src/application/Program.java]
+
+!ENTRY org.eclipse.jface 2 0 2025-12-21 11:52:04.775
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2025-12-21 11:52:04.775
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolInWorkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolInWorkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:55:44.800
+!MESSAGE 11:51:28.257 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:55:44.801
+!MESSAGE 11:55:44.799 [pool-5-thread-3] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:55:44.802
+!MESSAGE 11:55:44.799 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:55:45.120
+!MESSAGE 11:55:44.808 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:55:45.122
+!MESSAGE 11:55:44.810 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:56:16.592
+!MESSAGE 11:56:16.591 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:56:43.013
+!MESSAGE 11:56:16.616 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:56:49.592
+!MESSAGE 11:56:49.591 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:56:49.636
+!MESSAGE 11:56:49.635 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:56:51.376
+!MESSAGE 11:56:50.188 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:56:51.377
+!MESSAGE 11:56:51.374 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:57:00.425
+!MESSAGE 11:57:00.424 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:57:00.427
+!MESSAGE 11:57:00.424 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:57:00.625
+!MESSAGE 11:57:00.623 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 68
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:57:00.626
+!MESSAGE 11:57:00.623 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:57:01.457
+!MESSAGE 11:57:00.962 [pool-5-thread-3] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:57:01.458
+!MESSAGE 11:57:00.962 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:57:01.459
+!MESSAGE 11:57:00.973 [pool-5-thread-3] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:57:01.460
+!MESSAGE 11:57:00.973 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:57:01.461
+!MESSAGE 11:57:00.973 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:57:01.461
+!MESSAGE 11:57:00.973 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:57:01.468
+!MESSAGE 11:57:01.465 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:57:15.127
+!MESSAGE 11:57:15.126 [pool-5-thread-3] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:57:15.149
+!MESSAGE 11:57:15.139 [pool-5-thread-3] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:57:16.189
+!MESSAGE 11:57:16.063 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:57:16.215
+!MESSAGE 11:57:16.206 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:57:16.567
+!MESSAGE 11:57:16.566 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:57:16.967
+!MESSAGE 11:57:16.568 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:57:19.707
+!MESSAGE 11:57:19.704 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:57:19.798
+!MESSAGE 11:57:19.783 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:57:19.799
+!MESSAGE 11:57:19.785 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:57:22.031
+!MESSAGE 11:57:22.030 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:57:22.554
+!MESSAGE 11:57:22.542 [pool-5-thread-3] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:57:26.781
+!MESSAGE 11:57:26.276 [pool-5-thread-3] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:57:26.783
+!MESSAGE 11:57:26.781 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:58:00.757
+!MESSAGE 11:58:00.736 [pool-5-thread-3] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:58:00.757
+!MESSAGE 11:58:00.756 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:58:07.922
+!MESSAGE 11:58:06.898 [pool-5-thread-3] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:58:07.923
+!MESSAGE 11:58:07.920 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:58:07.943
+!MESSAGE 11:58:07.942 [pool-5-thread-3] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:58:08.408
+!MESSAGE 11:58:08.408 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:58:08.410
+!MESSAGE 11:58:08.409 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:58:11.913
+!MESSAGE 11:58:08.539 [pool-5-thread-3] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:58:21.754
+!MESSAGE 11:58:21.752 [pool-5-thread-3] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:58:21.901
+!MESSAGE 11:58:21.900 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:58:22.557
+!MESSAGE 11:58:22.557 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 91
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:58:22.557
+!MESSAGE 11:58:22.557 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:58:22.743
+!MESSAGE 11:58:22.742 [pool-5-thread-3] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:58:23.266
+!MESSAGE 11:58:23.062 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 93
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:58:23.266
+!MESSAGE 11:58:23.256 [pool-5-thread-3] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:58:24.539
+!MESSAGE 11:58:23.567 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:58:28.069
+!MESSAGE 11:58:24.875 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:58:28.070
+!MESSAGE 11:58:24.970 [pool-5-thread-3] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:58:28.071
+!MESSAGE 11:58:27.668 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:58:28.071
+!MESSAGE 11:58:27.668 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:58:28.121
+!MESSAGE 11:58:28.116 [pool-5-thread-3] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:58:28.572
+!MESSAGE 11:58:28.571 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:58:28.573
+!MESSAGE 11:58:28.571 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:58:28.990
+!MESSAGE 11:58:28.988 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 101
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:58:28.991
+!MESSAGE 11:58:28.989 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:58:29.145
+!MESSAGE 11:58:29.142 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:58:29.146
+!MESSAGE 11:58:29.143 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:58:29.146
+!MESSAGE 11:58:29.143 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:58:29.146
+!MESSAGE 11:58:29.144 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:58:30.650
+!MESSAGE 11:58:30.649 [pool-5-thread-3] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:58:35.837
+!MESSAGE 11:58:35.738 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:58:35.850
+!MESSAGE 11:58:35.841 [pool-5-thread-3] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:58:35.851
+!MESSAGE 11:58:35.850 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:58:46.799
+!MESSAGE 11:58:36.241 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:58:59.889
+!MESSAGE 11:58:59.888 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 108
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:58:59.890
+!MESSAGE 11:58:59.888 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:59:10.595
+!MESSAGE 11:59:00.396 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:59:23.784
+!MESSAGE 11:59:23.657 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:59:23.806
+!MESSAGE 11:59:23.797 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:59:27.968
+!MESSAGE 11:59:27.627 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:59:27.970
+!MESSAGE 11:59:27.628 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:59:28.472
+!MESSAGE 11:59:28.470 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:59:28.473
+!MESSAGE 11:59:28.471 [Reconciler-1] INFO  o.s.i.v.b.j.r.JdtReconciler - reconciling (JDT): file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:59:28.473
+!MESSAGE 11:59:28.471 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:59:39.934
+!MESSAGE 11:59:39.805 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:59:49.430
+!MESSAGE 11:59:39.941 [pool-5-thread-3] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:59:49.430
+!MESSAGE 11:59:49.429 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:59:49.460
+!MESSAGE 11:59:49.459 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:59:49.808
+!MESSAGE 11:59:49.803 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:59:49.808
+!MESSAGE 11:59:49.803 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:59:50.859
+!MESSAGE 11:59:50.423 [pool-5-thread-3] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:59:50.860
+!MESSAGE 11:59:50.858 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 143
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:59:50.860
+!MESSAGE 11:59:50.858 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:59:50.961
+!MESSAGE 11:59:50.952 [pool-5-thread-3] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:59:50.962
+!MESSAGE 11:59:50.960 [pool-5-thread-3] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:59:50.963
+!MESSAGE 11:59:50.960 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:59:50.980
+!MESSAGE 11:59:50.968 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:59:51.237
+!MESSAGE 11:59:51.235 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 145
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:59:51.719
+!MESSAGE 11:59:51.452 [pool-5-thread-3] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:59:51.994
+!MESSAGE 11:59:51.993 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:59:51.994
+!MESSAGE 11:59:51.993 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:59:52.493
+!MESSAGE 11:59:52.493 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:59:52.513
+!MESSAGE 11:59:52.502 [pool-5-thread-3] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:59:52.725
+!MESSAGE 11:59:52.725 [pool-5-thread-3] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:59:52.739
+!MESSAGE 11:59:52.732 [pool-5-thread-3] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:59:52.739
+!MESSAGE 11:59:52.738 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:59:52.965
+!MESSAGE 11:59:52.781 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 150
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:59:52.967
+!MESSAGE 11:59:52.964 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:59:53.030
+!MESSAGE 11:59:53.015 [pool-5-thread-3] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:59:53.504
+!MESSAGE 11:59:53.118 [pool-5-thread-3] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:59:53.505
+!MESSAGE 11:59:53.503 [pool-5-thread-3] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:59:53.505
+!MESSAGE 11:59:53.503 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:59:54.084
+!MESSAGE 11:59:53.509 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:59:54.283
+!MESSAGE 11:59:54.283 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 155
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:59:54.284
+!MESSAGE 11:59:54.283 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:59:54.722
+!MESSAGE 11:59:54.721 [pool-5-thread-3] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:59:54.831
+!MESSAGE 11:59:54.736 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:59:54.847
+!MESSAGE 11:59:54.842 [pool-5-thread-3] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:59:54.847
+!MESSAGE 11:59:54.846 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:59:54.848
+!MESSAGE 11:59:54.846 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:59:55.264
+!MESSAGE 11:59:55.263 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 11:59:55.265
+!MESSAGE 11:59:55.264 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:02.003
+!MESSAGE 11:59:56.600 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:02.007
+!MESSAGE 12:00:02.004 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 163
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:02.008
+!MESSAGE 12:00:02.006 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:06.793
+!MESSAGE 12:00:02.209 [pool-5-thread-3] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:06.983
+!MESSAGE 12:00:06.962 [pool-5-thread-3] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:07.472
+!MESSAGE 12:00:06.997 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:07.479
+!MESSAGE 12:00:07.479 [pool-5-thread-3] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:09.780
+!MESSAGE 12:00:07.649 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:09.893
+!MESSAGE 12:00:09.826 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:09.965
+!MESSAGE 12:00:09.964 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:09.979
+!MESSAGE 12:00:09.973 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:10.573
+!MESSAGE 12:00:10.395 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:10.574
+!MESSAGE 12:00:10.572 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 174
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:10.726
+!MESSAGE 12:00:10.725 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:10.727
+!MESSAGE 12:00:10.725 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:11.254
+!MESSAGE 12:00:10.729 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:11.265
+!MESSAGE 12:00:11.265 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:11.267
+!MESSAGE 12:00:11.265 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:11.793
+!MESSAGE 12:00:11.300 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 178
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:11.819
+!MESSAGE 12:00:11.812 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:12.263
+!MESSAGE 12:00:12.059 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:12.265
+!MESSAGE 12:00:12.242 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:12.773
+!MESSAGE 12:00:12.772 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:12.788
+!MESSAGE 12:00:12.787 [pool-5-thread-3] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:12.794
+!MESSAGE 12:00:12.790 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:18.649
+!MESSAGE 12:00:12.808 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:18.650
+!MESSAGE 12:00:17.065 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:19.167
+!MESSAGE 12:00:18.676 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:19.175
+!MESSAGE 12:00:19.172 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:24.007
+!MESSAGE 12:00:24.006 [pool-5-thread-4] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:25.032
+!MESSAGE 12:00:25.028 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:25.033
+!MESSAGE 12:00:25.032 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:25.203
+!MESSAGE 12:00:25.202 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 187
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:25.215
+!MESSAGE 12:00:25.214 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:25.538
+!MESSAGE 12:00:25.538 [pool-5-thread-4] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:25.539
+!MESSAGE 12:00:25.538 [pool-5-thread-4] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:25.539
+!MESSAGE 12:00:25.538 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:26.649
+!MESSAGE 12:00:26.648 [pool-5-thread-4] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:29.681
+!MESSAGE 12:00:29.679 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 190
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:29.776
+!MESSAGE 12:00:29.775 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:30.207
+!MESSAGE 12:00:30.206 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:30.914
+!MESSAGE 12:00:30.568 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:30.915
+!MESSAGE 12:00:30.913 [Reconciler-1] INFO  o.s.i.v.b.j.r.JdtReconciler - reconciling (JDT): file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java done in 2ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:33.571
+!MESSAGE 12:00:33.553 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:33.572
+!MESSAGE 12:00:33.570 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:33.891
+!MESSAGE 12:00:33.578 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:33.891
+!MESSAGE 12:00:33.578 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:34.478
+!MESSAGE 12:00:34.477 [pool-3-thread-15] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:35.155
+!MESSAGE 12:00:35.144 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:35.155
+!MESSAGE 12:00:35.154 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:35.161
+!MESSAGE 12:00:35.160 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:35.430
+!MESSAGE 12:00:35.429 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 195
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:35.696
+!MESSAGE 12:00:35.695 [pool-5-thread-4] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:35.707
+!MESSAGE 12:00:35.705 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:35.708
+!MESSAGE 12:00:35.705 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:35.935
+!MESSAGE 12:00:35.932 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:35.936
+!MESSAGE 12:00:35.934 [Reconciler-1] INFO  o.s.i.v.b.j.r.JdtReconciler - reconciling (JDT): file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java done in 2ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:36.276
+!MESSAGE 12:00:36.256 [pool-5-thread-4] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:36.278
+!MESSAGE 12:00:36.274 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:36.323
+!MESSAGE 12:00:36.322 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 197
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:36.615
+!MESSAGE 12:00:36.614 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:36.643
+!MESSAGE 12:00:36.640 [pool-5-thread-4] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:36.691
+!MESSAGE 12:00:36.661 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:36.950
+!MESSAGE 12:00:36.948 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:37.787
+!MESSAGE 12:00:37.453 [Reconciler-1] INFO  o.s.i.v.b.j.r.JdtReconciler - reconciling (JDT): file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java done in 2ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:37.909
+!MESSAGE 12:00:37.879 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:42.237
+!MESSAGE 12:00:38.317 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:42.238
+!MESSAGE 12:00:41.524 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:42.239
+!MESSAGE 12:00:42.097 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:42.240
+!MESSAGE 12:00:42.099 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:42.363
+!MESSAGE 12:00:42.248 [pool-5-thread-4] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:42.364
+!MESSAGE 12:00:42.362 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:42.813
+!MESSAGE 12:00:42.601 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:43.614
+!MESSAGE 12:00:43.096 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:43.615
+!MESSAGE 12:00:43.111 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:43.616
+!MESSAGE 12:00:43.111 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:43.617
+!MESSAGE 12:00:43.111 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:43.628
+!MESSAGE 12:00:43.627 [pool-5-thread-4] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:43.642
+!MESSAGE 12:00:43.632 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:43.643
+!MESSAGE 12:00:43.633 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:45.676
+!MESSAGE 12:00:44.723 [pool-5-thread-4] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:45.678
+!MESSAGE 12:00:45.105 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:45.696
+!MESSAGE 12:00:45.689 [pool-5-thread-4] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:45.946
+!MESSAGE 12:00:45.944 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 215
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:46.196
+!MESSAGE 12:00:46.187 [pool-5-thread-4] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:46.197
+!MESSAGE 12:00:46.196 [pool-5-thread-4] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:46.197
+!MESSAGE 12:00:46.196 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:46.201
+!MESSAGE 12:00:46.200 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:46.202
+!MESSAGE 12:00:46.200 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:46.625
+!MESSAGE 12:00:46.624 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:46.625
+!MESSAGE 12:00:46.624 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:47.889
+!MESSAGE 12:00:47.856 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:47.889
+!MESSAGE 12:00:47.876 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:49.127
+!MESSAGE 12:00:48.302 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:49.129
+!MESSAGE 12:00:49.070 [Reconciler-1] INFO  o.s.i.v.b.j.r.JdtReconciler - reconciling (JDT): file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java done in 2ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:49.154
+!MESSAGE 12:00:49.153 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:49.416
+!MESSAGE 12:00:49.399 [pool-5-thread-4] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:52.614
+!MESSAGE 12:00:49.423 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:52.614
+!MESSAGE 12:00:49.434 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:52.615
+!MESSAGE 12:00:52.613 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:52.794
+!MESSAGE 12:00:52.793 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:52.795
+!MESSAGE 12:00:52.793 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:53.268
+!MESSAGE 12:00:53.267 [pool-5-thread-4] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:53.281
+!MESSAGE 12:00:53.280 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:00:54.167
+!MESSAGE 12:00:53.285 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:01:02.297
+!MESSAGE 12:01:01.599 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:01:02.298
+!MESSAGE 12:01:01.599 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:01:02.299
+!MESSAGE 12:01:01.599 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:01:02.299
+!MESSAGE 12:01:01.599 [pool-3-thread-14] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - hover computation done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:01:03.743
+!MESSAGE 12:01:03.743 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:01:03.785
+!MESSAGE 12:01:03.785 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:01:04.256
+!MESSAGE 12:01:04.239 [pool-5-thread-4] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:01:04.935
+!MESSAGE 12:01:04.933 [pool-5-thread-4] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:01:10.648
+!MESSAGE 12:01:05.292 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:01:11.970
+!MESSAGE 12:01:11.812 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:01:11.987
+!MESSAGE 12:01:11.976 [pool-5-thread-4] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:01:12.476
+!MESSAGE 12:01:12.316 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:01:12.476
+!MESSAGE 12:01:12.403 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 234
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:01:12.907
+!MESSAGE 12:01:12.906 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:01:12.907
+!MESSAGE 12:01:12.906 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:01:12.994
+!MESSAGE 12:01:12.993 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:01:12.995
+!MESSAGE 12:01:12.993 [pool-5-thread-4] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:01:14.623
+!MESSAGE 12:01:14.622 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:01:17.393
+!MESSAGE 12:01:14.723 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:01:19.607
+!MESSAGE 12:01:17.442 [pool-5-thread-4] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:01:19.626
+!MESSAGE 12:01:19.625 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 241
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:01:19.626
+!MESSAGE 12:01:19.625 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:01:19.681
+!MESSAGE 12:01:19.680 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:01:19.681
+!MESSAGE 12:01:19.681 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:02:22.163
+!MESSAGE 12:01:35.250 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:02:22.587
+!MESSAGE 12:02:22.586 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:02:22.779
+!MESSAGE 12:02:22.776 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:02:23.091
+!MESSAGE 12:02:23.090 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:02:23.092
+!MESSAGE 12:02:23.090 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:02:24.042
+!MESSAGE 12:02:23.662 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:02:24.045
+!MESSAGE 12:02:23.842 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:02:24.082
+!MESSAGE 12:02:24.080 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:02:24.082
+!MESSAGE 12:02:24.081 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:02:24.099
+!MESSAGE 12:02:24.098 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:02:26.844
+!MESSAGE 12:02:24.532 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:02:26.845
+!MESSAGE 12:02:26.547 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 249
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:02:26.845
+!MESSAGE 12:02:26.844 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:02:29.640
+!MESSAGE 12:02:29.640 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:02:29.654
+!MESSAGE 12:02:29.648 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:02:29.655
+!MESSAGE 12:02:29.648 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:02:32.845
+!MESSAGE 12:02:32.813 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:02:32.845
+!MESSAGE 12:02:32.844 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:02:34.204
+!MESSAGE 12:02:33.933 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:02:34.205
+!MESSAGE 12:02:34.190 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:02:34.450
+!MESSAGE 12:02:34.208 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:02:34.452
+!MESSAGE 12:02:34.449 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:02:34.480
+!MESSAGE 12:02:34.464 [pool-3-thread-17] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:02:35.811
+!MESSAGE 12:02:35.810 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 259
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:02:35.812
+!MESSAGE 12:02:35.810 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:02:36.314
+!MESSAGE 12:02:36.313 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:02:36.315
+!MESSAGE 12:02:36.313 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:02:40.199
+!MESSAGE 12:02:40.199 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:02:46.330
+!MESSAGE 12:02:46.328 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:02:46.372
+!MESSAGE 12:02:46.371 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:02:46.459
+!MESSAGE 12:02:46.459 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 263
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:02:46.460
+!MESSAGE 12:02:46.459 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:02:46.483
+!MESSAGE 12:02:46.482 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:02:46.484
+!MESSAGE 12:02:46.482 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:02:46.493
+!MESSAGE 12:02:46.485 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:02:46.640
+!MESSAGE 12:02:46.640 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:02:46.853
+!MESSAGE 12:02:46.643 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:02:47.432
+!MESSAGE 12:02:47.432 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 267
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:02:47.433
+!MESSAGE 12:02:47.432 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:02:47.552
+!MESSAGE 12:02:47.550 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:02:47.563
+!MESSAGE 12:02:47.562 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:02:55.366
+!MESSAGE 12:02:54.194 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:02:55.367
+!MESSAGE 12:02:55.364 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:02:55.368
+!MESSAGE 12:02:55.364 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:02:56.190
+!MESSAGE 12:02:56.188 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:02:57.528
+!MESSAGE 12:02:57.215 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:02:58.962
+!MESSAGE 12:02:58.943 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:02:59.127
+!MESSAGE 12:02:59.126 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 279
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:02:59.128
+!MESSAGE 12:02:59.126 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:03:28.861
+!MESSAGE 12:02:59.431 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:03:28.878
+!MESSAGE 12:03:28.877 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:03:38.777
+!MESSAGE 12:03:38.768 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:03:49.055
+!MESSAGE 12:03:49.054 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:03:53.052
+!MESSAGE 12:03:53.051 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:03:53.462
+!MESSAGE 12:03:53.409 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:03:53.462
+!MESSAGE 12:03:53.460 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:03:53.463
+!MESSAGE 12:03:53.461 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:03:53.962
+!MESSAGE 12:03:53.961 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 93
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:03:53.962
+!MESSAGE 12:03:53.961 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:03:54.078
+!MESSAGE 12:03:54.077 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:03:54.101
+!MESSAGE 12:03:54.100 [pool-3-thread-17] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:03:54.102
+!MESSAGE 12:03:54.100 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:03:54.102
+!MESSAGE 12:03:54.100 [pool-3-thread-17] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:03:54.438
+!MESSAGE 12:03:54.437 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:03:54.453
+!MESSAGE 12:03:54.452 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:03:54.453
+!MESSAGE 12:03:54.452 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:03:54.453
+!MESSAGE 12:03:54.452 [pool-3-thread-17] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:03:54.454
+!MESSAGE 12:03:54.452 [pool-3-thread-17] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:03:55.161
+!MESSAGE 12:03:54.664 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:03:55.162
+!MESSAGE 12:03:55.157 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:03:55.231
+!MESSAGE 12:03:55.169 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:03:55.232
+!MESSAGE 12:03:55.229 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:03:55.243
+!MESSAGE 12:03:55.242 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:03:57.649
+!MESSAGE 12:03:57.648 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:03:57.649
+!MESSAGE 12:03:57.648 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:04:01.366
+!MESSAGE 12:03:59.720 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:04:01.367
+!MESSAGE 12:04:01.319 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:04:01.367
+!MESSAGE 12:04:01.345 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:04:01.367
+!MESSAGE 12:04:01.366 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:04:02.713
+!MESSAGE 12:04:02.712 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:04:02.713
+!MESSAGE 12:04:02.712 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:04:04.102
+!MESSAGE 12:04:03.206 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:04:04.103
+!MESSAGE 12:04:04.101 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:04:04.104
+!MESSAGE 12:04:04.102 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:04:06.027
+!MESSAGE 12:04:06.026 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:04:06.211
+!MESSAGE 12:04:06.049 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:04:06.324
+!MESSAGE 12:04:06.319 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:04:06.560
+!MESSAGE 12:04:06.327 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:04:06.812
+!MESSAGE 12:04:06.810 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:04:06.836
+!MESSAGE 12:04:06.835 [pool-3-thread-17] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:04:07.170
+!MESSAGE 12:04:07.068 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:04:07.171
+!MESSAGE 12:04:07.168 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:04:07.171
+!MESSAGE 12:04:07.168 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:04:07.174
+!MESSAGE 12:04:07.173 [pool-3-thread-17] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:04:08.204
+!MESSAGE 12:04:08.203 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:04:08.214
+!MESSAGE 12:04:08.213 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:04:20.006
+!MESSAGE 12:04:08.676 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:04:20.230
+!MESSAGE 12:04:20.011 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:04:20.231
+!MESSAGE 12:04:20.227 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:04:30.893
+!MESSAGE 12:04:20.471 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:04:32.174
+!MESSAGE 12:04:31.199 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:04:32.175
+!MESSAGE 12:04:31.397 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:04:32.175
+!MESSAGE 12:04:32.161 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:04:32.269
+!MESSAGE 12:04:32.268 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:04:32.289
+!MESSAGE 12:04:32.288 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:04:32.290
+!MESSAGE 12:04:32.288 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:04:32.684
+!MESSAGE 12:04:32.682 [pool-3-thread-17] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:04:32.685
+!MESSAGE 12:04:32.683 [pool-3-thread-17] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:04:33.199
+!MESSAGE 12:04:33.191 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:04:33.201
+!MESSAGE 12:04:33.198 [pool-3-thread-17] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:04:33.262
+!MESSAGE 12:04:33.261 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 124
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:04:33.263
+!MESSAGE 12:04:33.261 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:04:33.394
+!MESSAGE 12:04:33.393 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:04:34.050
+!MESSAGE 12:04:33.397 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:04:34.051
+!MESSAGE 12:04:33.765 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:04:34.052
+!MESSAGE 12:04:34.049 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:04:34.188
+!MESSAGE 12:04:34.188 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:04:34.200
+!MESSAGE 12:04:34.199 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:04:55.292
+!MESSAGE 12:04:34.204 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-21 12:04:55.600
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-21 12:04:55.602
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-21 12:04:55.603
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-21 12:04:55.604
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:04:55.788
+!MESSAGE 12:04:55.306 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - doc save event: file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:04:55.788
+!MESSAGE 12:04:55.681 [Simple-Language-Server main thread] INFO  o.s.i.v.boot.app.SpringSymbolIndex - Update document [file changed]: file:///C:/Users/nefer/MyNewProjects/cb/target/classes/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:04:55.953
+!MESSAGE 12:04:55.901 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:04:55.975
+!MESSAGE 12:04:55.969 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:04:55.976
+!MESSAGE 12:04:55.975 [pool-3-thread-17] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:06.001
+!MESSAGE 12:05:02.907 [pool-14-thread-1] ERROR o.e.lsp4j.jsonrpc.RemoteEndpoint - Internal error: java.lang.IllegalStateException: Live Data is not yet available!
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:06.001
+!MESSAGE java.util.concurrent.CompletionException: java.lang.IllegalStateException: Live Data is not yet available!
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:06.002
+!MESSAGE 	at java.base/java.util.concurrent.CompletableFuture.wrapInCompletionException(CompletableFuture.java:323)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:06.003
+!MESSAGE 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:376)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:06.003
+!MESSAGE 	at java.base/java.util.concurrent.CompletableFuture.uniAcceptNow(CompletableFuture.java:768)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:06.003
+!MESSAGE 	at java.base/java.util.concurrent.CompletableFuture.uniAcceptStage(CompletableFuture.java:756)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:06.004
+!MESSAGE 	at java.base/java.util.concurrent.CompletableFuture.thenAccept(CompletableFuture.java:2241)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:06.004
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:279)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:06.006
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:06.007
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.ParentProcessWatcher.lambda$apply$0(ParentProcessWatcher.java:129)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:06.008
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:06.008
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:06.009
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:06.010
+!MESSAGE 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:06.011
+!MESSAGE 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:06.012
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:06.014
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:06.015
+!MESSAGE 	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:06.016
+!MESSAGE Caused by: java.lang.IllegalStateException: Live Data is not yet available!
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:06.017
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.livehover.v2.SpringProcessCommandHandler.handleLiveProcessRequest(SpringProcessCommandHandler.java:330)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:06.017
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.livehover.v2.SpringProcessCommandHandler.lambda$new$4(SpringProcessCommandHandler.java:81)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:06.019
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.SimpleLanguageServer.executeCommand(SimpleLanguageServer.java:313)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:06.020
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.SimpleWorkspaceService.executeCommand(SimpleWorkspaceService.java:157)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:06.022
+!MESSAGE 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:06.024
+!MESSAGE 	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:06.025
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:06.027
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:06.028
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:06.029
+!MESSAGE 	... 10 common frames omitted
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:06.030
+!MESSAGE ProcessWatcher.java:129)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:06.032
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:06.033
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:06.035
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:06.036
+!MESSAGE 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:06.037
+!MESSAGE 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:06.038
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:06.040
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:06.041
+!MESSAGE 	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:06.043
+!MESSAGE Caused by: java.lang.IllegalStateException: Live Data is not yet available!
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:06.044
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.livehover.v2.SpringProcessCommandHandler.handleLiveProcessRequest(SpringProcessCommandHandler.java:330)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:06.046
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.livehover.v2.SpringProcessCommandHandler.lambda$new$4(SpringProcessCommandHandler.java:81)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:06.047
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.SimpleLanguageServer.executeCommand(SimpleLanguageServer.java:313)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:06.048
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.SimpleWorkspaceService.executeCommand(SimpleWorkspaceService.java:157)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:06.049
+!MESSAGE 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:06.050
+!MESSAGE 	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:06.052
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:06.053
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:06.054
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:06.055
+!MESSAGE 	... 10 common frames omitted
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:37.539
+!MESSAGE 12:05:37.533 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:37.539
+!MESSAGE 12:05:37.538 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:41.707
+!MESSAGE 12:05:37.856 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:44.098
+!MESSAGE 12:05:44.098 [pool-3-thread-14] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:45.974
+!MESSAGE 12:05:44.099 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:46.113
+!MESSAGE 12:05:46.101 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:46.329
+!MESSAGE 12:05:46.326 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:46.635
+!MESSAGE 12:05:46.631 [pool-3-thread-17] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:46.635
+!MESSAGE 12:05:46.633 [pool-3-thread-18] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:46.653
+!MESSAGE 12:05:46.641 [pool-3-thread-17] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:46.906
+!MESSAGE 12:05:46.905 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:47.461
+!MESSAGE 12:05:46.908 [pool-3-thread-18] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:47.665
+!MESSAGE 12:05:47.466 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:47.699
+!MESSAGE 12:05:47.697 [pool-3-thread-18] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:47.982
+!MESSAGE 12:05:47.980 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:47.982
+!MESSAGE 12:05:47.981 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:48.837
+!MESSAGE 12:05:48.837 [pool-3-thread-18] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:50.915
+!MESSAGE 12:05:48.853 [pool-3-thread-18] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:50.916
+!MESSAGE 12:05:48.854 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:51.258
+!MESSAGE 12:05:50.920 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:51.258
+!MESSAGE 12:05:50.953 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:51.644
+!MESSAGE 12:05:51.433 [pool-3-thread-17] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:51.645
+!MESSAGE 12:05:51.643 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:56.977
+!MESSAGE 12:05:51.751 [pool-3-thread-17] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:56.980
+!MESSAGE 12:05:51.752 [pool-3-thread-18] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:56.981
+!MESSAGE 12:05:56.976 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:57.373
+!MESSAGE 12:05:57.372 [pool-3-thread-17] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:57.619
+!MESSAGE 12:05:57.618 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:05:57.620
+!MESSAGE 12:05:57.618 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:06:01.787
+!MESSAGE 12:05:58.285 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:06:01.910
+!MESSAGE 12:06:01.904 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:06:01.910
+!MESSAGE 12:06:01.904 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:06:01.917
+!MESSAGE 12:06:01.917 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:06:01.919
+!MESSAGE 12:06:01.917 [pool-3-thread-18] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:06:02.219
+!MESSAGE 12:06:02.217 [pool-3-thread-17] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:06:02.220
+!MESSAGE 12:06:02.217 [pool-3-thread-17] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:06:02.220
+!MESSAGE 12:06:02.217 [pool-3-thread-17] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:06:04.102
+!MESSAGE 12:06:02.223 [pool-3-thread-17] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:06:04.103
+!MESSAGE 12:06:03.755 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:06:04.104
+!MESSAGE 12:06:04.100 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:06:04.685
+!MESSAGE 12:06:04.436 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:06:04.747
+!MESSAGE 12:06:04.740 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:06:04.850
+!MESSAGE 12:06:04.849 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 306
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:06:04.850
+!MESSAGE 12:06:04.849 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:06:04.953
+!MESSAGE 12:06:04.952 [pool-3-thread-17] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:06:09.262
+!MESSAGE 12:06:09.261 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:06:09.270
+!MESSAGE 12:06:09.269 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:06:09.273
+!MESSAGE 12:06:09.272 [pool-3-thread-17] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:06:09.274
+!MESSAGE 12:06:09.273 [pool-3-thread-18] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:06:27.004
+!MESSAGE 12:06:20.435 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:06:27.004
+!MESSAGE 12:06:21.446 [pool-3-thread-18] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:06:27.005
+!MESSAGE 12:06:21.446 [pool-3-thread-18] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:06:27.013
+!MESSAGE 12:06:27.012 [pool-3-thread-17] INFO  o.s.i.v.boot.app.SpringSymbolIndex - Update document [didSave event]: file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-21 12:06:27.339
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-21 12:06:27.340
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-21 12:06:27.340
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-21 12:06:27.341
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:06:27.387
+!MESSAGE 12:06:27.016 [Simple-Language-Server main thread] INFO  o.s.i.v.boot.app.SpringSymbolIndex - Update document [file changed]: file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/Order.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:06:27.587
+!MESSAGE 12:06:27.587 [pool-3-thread-17] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:07:31.519
+!MESSAGE 12:07:31.519 [pool-3-thread-19] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:07:31.534
+!MESSAGE 12:07:31.522 [pool-3-thread-19] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:07:36.486
+!MESSAGE 12:07:36.485 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:07:36.686
+!MESSAGE 12:07:36.685 [pool-3-thread-20] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:07:36.686
+!MESSAGE 12:07:36.685 [pool-3-thread-20] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:07:36.686
+!MESSAGE 12:07:36.685 [pool-3-thread-20] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:07:36.686
+!MESSAGE 12:07:36.685 [pool-3-thread-19] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:07:36.686
+!MESSAGE 12:07:36.685 [pool-3-thread-19] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:07:37.695
+!MESSAGE 12:07:37.694 [pool-5-thread-6] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:07:37.845
+!MESSAGE 12:07:37.844 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:07:37.846
+!MESSAGE 12:07:37.844 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:07:42.196
+!MESSAGE 12:07:42.195 [pool-3-thread-19] INFO  o.s.i.v.boot.app.SpringSymbolIndex - Update document [didSave event]: file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:07:42.309
+!MESSAGE 12:07:42.308 [pool-3-thread-20] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:07:42.309
+!MESSAGE 12:07:42.308 [pool-3-thread-20] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:07:42.310
+!MESSAGE 12:07:42.308 [pool-3-thread-20] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-21 12:07:42.463
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-21 12:07:42.464
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-21 12:07:42.464
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-12-21 12:07:42.465
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:07:42.946
+!MESSAGE 12:07:42.410 [pool-3-thread-20] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:07:42.946
+!MESSAGE 12:07:42.410 [pool-3-thread-20] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:07:42.946
+!MESSAGE 12:07:42.945 [pool-3-thread-20] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-12-21 12:07:42.954
+!MESSAGE 12:07:42.954 [pool-3-thread-20] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/nefer/MyNewProjects/cb/src/main/java/com/cinebyte/cb/entities/User.java
