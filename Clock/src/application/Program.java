@@ -11,7 +11,7 @@ public class Program {
 
 		
 		PlayerTimer pt = new PlayerTimer();
-		pt.ts(20);
+		pt.ts(2);
 		pt.start();
 		
 		
