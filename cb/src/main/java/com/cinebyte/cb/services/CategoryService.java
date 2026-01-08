@@ -7,7 +7,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.cinebyte.cb.entities.Category;
-import com.cinebyte.cb.entities.User;
 import com.cinebyte.cb.repositories.CategoryRepository;
 
 @Service
